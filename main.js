@@ -2,6 +2,7 @@ const app = Vue.createApp({
     data() {
         return {
             cart: 0,
+            premium: true,
             product: 'Socks',
             brand: 'Vue Mastery',
             selectedVariant: 0,
