@@ -1,4 +1,4 @@
-AudioParamMap.component('review-list', {
+app.component('review-list', {
     props: {
         reviews: {
             type: Array,
